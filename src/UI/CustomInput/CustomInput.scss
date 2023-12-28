@@ -1,0 +1,11 @@
+@import "../../varables.scss";
+
+.CustomInput {
+    background-color: $main-c;
+    width: 90%;
+    height: 35px;
+    font-size: 30px;
+    border: 1px solid $sub-main-c;
+    border-radius: 10px;
+    outline: none;
+}
